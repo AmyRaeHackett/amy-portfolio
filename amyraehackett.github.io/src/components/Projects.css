@@ -1,0 +1,40 @@
+.projects {
+    background-color: #9c6a7a;
+}
+
+
+
+.projects img:hover {
+    -webkit-filter: brightness(40%); 
+  filter: brightness(40%);
+
+}
+
+
+
+/* relevant styles */
+.imageWrap {
+    position: relative;
+    
+  }
+  
+  .imageDescription {
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.72);
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+  
+    transition: opacity .2s, visibility .2s;
+  }
+  
+  .imageWrap:hover .imageDescription {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  

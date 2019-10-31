@@ -1,0 +1,19 @@
+.homecolor {
+    background-color: rgb(229, 184, 118);
+    padding:4em;
+}
+
+.overlay {
+    margin-top: 40vh;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#title {
+    font-size: 60px;
+    background-color: white;
+    color: rgb(229, 184, 118);
+    padding-top:1em; 
+    padding-bottom:1em;
+    font-weight:bold;
+}
