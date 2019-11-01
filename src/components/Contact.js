@@ -16,8 +16,8 @@ function Contact() {
                     <div className="col-sm-6 pt-2" style={{ textAlign: "left" }}>
                         <b>Email:</b> <a href = "mailto:hacketam@tcd.ie">hacketam@tcd.ie</a> <br />
                         <b>Number:</b> 086-843-2327 <br />
-                        <b><a href="http://www.linkedin.com/in/amyhackett123">LinkedIn</a></b> <br />
-                        <b><a href="http://www.github.com/amyraehackett">GitHub</a></b>
+                        <b><a href="http://www.linkedin.com/in/amyhackett123"><img src={require('.././assets/linkedinicon.png')} style={{height:"50px", width:"50px"}}></img></a></b> 
+                        <b><a href="http://www.github.com/amyraehackett"><img src={require('.././assets/githubicon.png')} style={{height:"50px", width:"50px"}}></img></a></b>
                         
                     </div>
                 </div>
