@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amy-portfolio/static/css/main.8d145493.chunk.css",
+    "main.css": "/amy-portfolio/static/css/main.055c4c01.chunk.css",
     "main.js": "/amy-portfolio/static/js/main.18609ce1.chunk.js",
     "main.js.map": "/amy-portfolio/static/js/main.18609ce1.chunk.js.map",
     "runtime-main.js": "/amy-portfolio/static/js/runtime-main.a0c6d1c1.js",
@@ -9,10 +9,10 @@
     "static/js/2.25d95d0b.chunk.js": "/amy-portfolio/static/js/2.25d95d0b.chunk.js",
     "static/js/2.25d95d0b.chunk.js.map": "/amy-portfolio/static/js/2.25d95d0b.chunk.js.map",
     "index.html": "/amy-portfolio/index.html",
-    "precache-manifest.f89c013dec1fcb075b9e2d837d6e76a9.js": "/amy-portfolio/precache-manifest.f89c013dec1fcb075b9e2d837d6e76a9.js",
+    "precache-manifest.df14b3cea34f881fb439285bb4a9a210.js": "/amy-portfolio/precache-manifest.df14b3cea34f881fb439285bb4a9a210.js",
     "service-worker.js": "/amy-portfolio/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/amy-portfolio/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.8d145493.chunk.css.map": "/amy-portfolio/static/css/main.8d145493.chunk.css.map",
+    "static/css/main.055c4c01.chunk.css.map": "/amy-portfolio/static/css/main.055c4c01.chunk.css.map",
     "static/media/AHLogo.png": "/amy-portfolio/static/media/AHLogo.4e7590aa.png",
     "static/media/BIXE3594.JPG": "/amy-portfolio/static/media/BIXE3594.523aa34a.JPG",
     "static/media/CZAR3822.JPG": "/amy-portfolio/static/media/CZAR3822.72462b0b.JPG",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.a0c6d1c1.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.25d95d0b.chunk.js",
-    "static/css/main.8d145493.chunk.css",
+    "static/css/main.055c4c01.chunk.css",
     "static/js/main.18609ce1.chunk.js"
   ]
 }
