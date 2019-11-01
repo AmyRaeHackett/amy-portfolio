@@ -43,8 +43,8 @@ function Projects() {
                     </div>
 
                     <div className="imageWrap col-sm "><img src={require('.././assets/paint.PNG')} className="img-fluid" />
-                        <p class="imageDescription"><b style={{ color: "black" }}>Paint Program</b><br />
-                            <a href="https://github.com/AmyRaeHackett/Paint-Program" style={{ color: "black" }}>View source code</a></p></div>
+                        <p class="imageDescription"><b style={{ color: "white" }}>Paint Program</b><br />
+                            <a href="https://github.com/AmyRaeHackett/Paint-Program" style={{ color: "white" }}>View source code</a></p></div>
 
 
 

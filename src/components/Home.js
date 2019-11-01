@@ -11,6 +11,7 @@ function Home() {
                     <h1 id="title">Hi, <br /> I'm Amy!</h1>
 
                 </header>
+                <a href="#about"><img height="100px" width="100px" src={require('.././assets/downbutton.gif')}></img></a>
             </div>
         </div>
 
