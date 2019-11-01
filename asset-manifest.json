@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amy-portfolio/static/css/main.fcb82ad3.chunk.css",
-    "main.js": "/amy-portfolio/static/js/main.1875100f.chunk.js",
-    "main.js.map": "/amy-portfolio/static/js/main.1875100f.chunk.js.map",
+    "main.js": "/amy-portfolio/static/js/main.a39bad10.chunk.js",
+    "main.js.map": "/amy-portfolio/static/js/main.a39bad10.chunk.js.map",
     "runtime-main.js": "/amy-portfolio/static/js/runtime-main.a0c6d1c1.js",
     "runtime-main.js.map": "/amy-portfolio/static/js/runtime-main.a0c6d1c1.js.map",
     "static/css/2.0624914a.chunk.css": "/amy-portfolio/static/css/2.0624914a.chunk.css",
-    "static/js/2.0d8755ad.chunk.js": "/amy-portfolio/static/js/2.0d8755ad.chunk.js",
-    "static/js/2.0d8755ad.chunk.js.map": "/amy-portfolio/static/js/2.0d8755ad.chunk.js.map",
+    "static/js/2.14371eb8.chunk.js": "/amy-portfolio/static/js/2.14371eb8.chunk.js",
+    "static/js/2.14371eb8.chunk.js.map": "/amy-portfolio/static/js/2.14371eb8.chunk.js.map",
     "index.html": "/amy-portfolio/index.html",
-    "precache-manifest.95ec8a65878a15901e8a11e90206d817.js": "/amy-portfolio/precache-manifest.95ec8a65878a15901e8a11e90206d817.js",
+    "precache-manifest.2952ce6959b4d1fbbde536f8eca04ee5.js": "/amy-portfolio/precache-manifest.2952ce6959b4d1fbbde536f8eca04ee5.js",
     "service-worker.js": "/amy-portfolio/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/amy-portfolio/static/css/2.0624914a.chunk.css.map",
     "static/css/main.fcb82ad3.chunk.css.map": "/amy-portfolio/static/css/main.fcb82ad3.chunk.css.map",
@@ -26,6 +26,8 @@
     "static/media/MUAD0763.JPG": "/amy-portfolio/static/media/MUAD0763.2e55f56a.JPG",
     "static/media/civiccentre.png": "/amy-portfolio/static/media/civiccentre.9bd18a8f.png",
     "static/media/d7tree.PNG": "/amy-portfolio/static/media/d7tree.2609b562.PNG",
+    "static/media/githubicon.png": "/amy-portfolio/static/media/githubicon.b15eedbd.png",
+    "static/media/linkedinicon.png": "/amy-portfolio/static/media/linkedinicon.1307a264.png",
     "static/media/logo.svg": "/amy-portfolio/static/media/logo.25bf045c.svg",
     "static/media/paint.PNG": "/amy-portfolio/static/media/paint.e77ee1c1.PNG",
     "static/media/planet_destination.png": "/amy-portfolio/static/media/planet_destination.cbcf46c7.png"
@@ -33,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.a0c6d1c1.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.0d8755ad.chunk.js",
+    "static/js/2.14371eb8.chunk.js",
     "static/css/main.fcb82ad3.chunk.css",
-    "static/js/main.1875100f.chunk.js"
+    "static/js/main.a39bad10.chunk.js"
   ]
 }
