@@ -36,6 +36,22 @@
   .imageWrap:hover .imageDescription {
     visibility: visible;
     opacity: 1;
+    color:white;
   }
 
-  
+  .imageWrap:hover a {
+    color:white;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .imageDescription {
+      visibility: visible;
+      opacity: 1;
+      color:black;
+    }
+
+    .imageWrap a {
+      color:black;
+      text-decoration: underline;
+    }
+  }

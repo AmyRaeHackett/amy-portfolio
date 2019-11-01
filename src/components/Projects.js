@@ -15,42 +15,39 @@ function Projects() {
 
                     <div className="imageWrap col-sm  "><img src={require('.././assets/planet_destination.png')} className="img-fluid" />
                         <p class="imageDescription"><b>Cosmic Computing</b><br />
-                            <a href="https://amyraehackett.github.io/Cosmic-Computing/" style={{ color: "white" }}>View</a></p>
+                            <a href="https://amyraehackett.github.io/Cosmic-Computing/" >View game</a><br />
+                            <a href="https://github.com/AmyRaeHackett/Cosmic-Computing" >View source code</a></p>
 
 
 
                     </div>
                     <div className="imageWrap col-sm "><img src={require('.././assets/illustrate.png')} className="img-fluid" />
                         <p class="imageDescription"><b>illustrate</b><br />
-                            <a href="https://github.com/AmyRaeHackett/Image-Sharing-App" style={{ color: "white" }}>View source code</a></p>
+                            <a href="https://github.com/AmyRaeHackett/Image-Sharing-App" >View source code</a></p>
 
 
                     </div>
                    
                     <div className="imageWrap col-sm "><img src={require('.././assets/d7tree.PNG')} className="img-fluid" />
                         <p class="imageDescription"><b>D7 Educate Together</b><br />
-                            <a href="https://d7educatetogether.com/" style={{ color: "white" }}>View website</a></p>
+                            <a href="https://d7educatetogether.com/" >View website</a></p>
 
                     </div>
 
                 </div>
                 <div className="row">
 
-                    <div className="imageWrap col-sm  "><img src={require('.././assets/civiccentre.png')} className="img-fluid" />
-                        <p class="imageDescription"><b>Ballymun Family Practice</b><br />
-                            <a href="https://github.com/AmyRaeHackett/Ballymun-Family-Practice" style={{ color: "white" }}>View source code</a></p>
+                    <div className="imageWrap col-sm  "><img src={require('.././assets/ballymunwebsite.PNG')} className="img-fluid" />
+                        <p class="imageDescription"><b style={{color:"white"}}>Ballymun Family Practice</b><br />
+                            <a href="https://github.com/AmyRaeHackett/Ballymun-Family-Practice" style={{color:"white"}}>View source code</a></p>
 
                     </div>
 
                     <div className="imageWrap col-sm "><img src={require('.././assets/paint.PNG')} className="img-fluid" />
-                        <p class="imageDescription"><b style={{ color: "white" }}>Paint Program</b><br />
-                            <a href="https://github.com/AmyRaeHackett/Paint-Program" style={{ color: "white" }}>View source code</a></p></div>
+                        <p class="imageDescription"><b >Paint Program</b><br />
+                            <a href="https://github.com/AmyRaeHackett/Paint-Program" >View source code</a></p></div>
 
 
-
-                   
-
-                    
                 </div>
             </div >
         </div>
