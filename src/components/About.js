@@ -10,7 +10,7 @@ function About() {
         <div className="aboutpage" id="about">
             <div className="container">
                 <div className="row">
-                    <div className="col-sm-6" style={{ fontSize: "3em", textAlign:"right", fontWeight:"bold"}}>
+                    <div className="col-sm-6" id="aboutheader" style={{ fontSize: "3em", fontWeight:"bold"}}>
                         ABOUT
                     </div>
                     <div className="col-sm-6" style={{ textAlign: "left"}}>

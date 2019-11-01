@@ -3,3 +3,17 @@
     text-decoration: none;
     color:rgb(80, 8, 8);
 }
+
+@media only screen and (max-width: 600px) {
+   #contactheader {
+       text-align: left;
+
+    }
+  }
+
+  @media only screen and (min-width: 600px) {
+    #contactheader {
+        text-align: right;
+ 
+     }
+   }

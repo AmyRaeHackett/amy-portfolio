@@ -10,7 +10,7 @@ function Contact() {
         <div className="contact" style={{ backgroundColor: "khaki" }} id = "contact">
             <div className="container p-5">
                 <div className="row">
-                    <div className="col-sm-6" style={{ fontSize: "3em", textAlign: "right", fontWeight: "bold", color: "#C92D39" }}>
+                    <div className="col-sm-6" id = "contactheader" style={{ fontSize: "3em", fontWeight: "bold", color: "#C92D39" }}>
                         CONTACT ME
                     </div>
                     <div className="col-sm-6 pt-2" style={{ textAlign: "left" }}>
