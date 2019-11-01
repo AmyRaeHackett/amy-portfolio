@@ -1,7 +1,5 @@
 
-
-
-a:hover, a:visited, a:link, a:active {
+#link:hover {
     text-decoration: none;
-    color:rgb(201, 45, 57);
+    color:rgb(80, 8, 8);
 }

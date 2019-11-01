@@ -14,7 +14,7 @@ function About() {
                         ABOUT
                     </div>
                     <div className="col-sm-6" style={{ textAlign: "left"}}>
-                    I am a first class honours M.Sc. Interactive Digital Media graduate from Trinity College Dublin. I love programming and web authoring and am currently looking for a role as a front end developer to showcase and strengthen my technical skills. I enjoy solving problems with creative and logical solutions. I am a critical thinker and a quick learner with a sharp attention to detail and a drive to succeed. I am really excited to work in an environment where I can provide a responsive and accessible user experience, while continuously being exposed to new technologies.
+                    Hi, my name is Amy Hackett. I am 23 years old and a first class honours M.Sc. Interactive Digital Media graduate from Trinity College Dublin. I love programming and web authoring and am currently looking for a role as a front end developer to showcase and strengthen my technical skills. I enjoy solving problems with creative and logical solutions. I am a critical thinker and a quick learner with a sharp attention to detail and a drive to succeed. I am really excited to work in an environment where I can provide a responsive and accessible user experience, while continuously being exposed to new technologies.
 
                     </div>
                 </div>

@@ -6,7 +6,7 @@ import './Projects.css';
 function Projects() {
     return (
 
-        <div className="projects" style={{ paddingTop: "6em" }} id="projects">
+        <div className="projects" style={{ paddingTop: "6em", color:"white" }} id="projects">
 
             <div className="container ">
 
