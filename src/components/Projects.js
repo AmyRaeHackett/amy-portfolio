@@ -13,19 +13,19 @@ function Projects() {
                 <h1 style={{ fontSize: "3em", fontWeight: "bold" }}>PROJECTS</h1>
                 <div className="row">
 
-                    <div className="imageWrap col-sm  "><a href="https://amyraehackett.github.io/Cosmic-Computing/"><img src={require('.././assets/planet_destination.png')} className="img-fluid" /></a>
+                    <div className="imageWrap col-sm  "><img src={require('.././assets/planet_destination.png')} className="img-fluid" />
                         <p class="imageDescription"><b>Cosmic Computing</b><br />
                             <a href="https://amyraehackett.github.io/Cosmic-Computing/" style={{ color: "white" }}>View</a></p>
 
 
 
                     </div>
-                    <div className="imageWrap col-sm "><a href="https://github.com/AmyRaeHackett/Paint-Program"><img src={require('.././assets/paint.PNG')} className="img-fluid" /></a>
+                    <div className="imageWrap col-sm "><img src={require('.././assets/paint.PNG')} className="img-fluid" />
                         <p class="imageDescription"><b style={{ color: "black" }}>Paint Program</b><br />
                             <a href="https://github.com/AmyRaeHackett/Paint-Program" style={{ color: "black" }}>View source code</a></p></div>
 
 
-                    <div className="imageWrap col-sm "> <a href="https://d7educatetogether.com/"><img src={require('.././assets/d7tree.PNG')} className="img-fluid" /></a>
+                    <div className="imageWrap col-sm "><img src={require('.././assets/d7tree.PNG')} className="img-fluid" />
                         <p class="imageDescription"><b>D7 Educate Together</b><br />
                             <a href="https://d7educatetogether.com/" style={{ color: "white" }}>View website</a></p>
 
@@ -34,23 +34,20 @@ function Projects() {
                 </div>
                 <div className="row">
 
-                    <div className="imageWrap col-sm  "><a href="https://github.com/AmyRaeHackett/Ballymun-Family-Practice"><img src={require('.././assets/civiccentre.png')} className="img-fluid" /></a>
+                    <div className="imageWrap col-sm  "><img src={require('.././assets/civiccentre.png')} className="img-fluid" />
                         <p class="imageDescription"><b>Ballymun Family Practice</b><br />
                             <a href="https://github.com/AmyRaeHackett/Ballymun-Family-Practice" style={{ color: "white" }}>View source code</a></p>
 
                     </div>
 
-                    <div className="imageWrap col-sm "><a href="https://codepen.io/amyhackett/pen/wvvgVXV"><img src={require('.././assets/snakeRight.png')} className="img-fluid" /></a>
-                        <p class="imageDescription"><b>Snake</b><br />
-                            <a href="https://codepen.io/amyhackett/pen/wvvgVXV" style={{ color: "white" }}>View on CodePen</a></p>
+                    <div className="imageWrap col-sm "><img src={require('.././assets/illustrate.png')} className="img-fluid" />
+                        <p class="imageDescription"><b>illustrate</b><br />
+                            <a href="https://github.com/AmyRaeHackett/Image-Sharing-App" style={{ color: "white" }}>View source code</a></p>
 
 
                     </div>
 
-                    <div className="imageWrap col-sm "> <a href="https://codepen.io/amyhackett/pen/gOYewOW"><img src={require('.././assets/owly.png')} className="img-fluid" /></a>
-                        <p class="imageDescription"><b>Sokoban</b><br />
-                            <a href="https://codepen.io/amyhackett/pen/gOYewOW" style={{ color: "white" }}>View on CodePen</a></p>
-                    </div>
+                    
                 </div>
             </div >
         </div>
