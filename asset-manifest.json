@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/amy-portfolio/static/css/main.fcb82ad3.chunk.css",
+    "main.js": "/amy-portfolio/static/js/main.1875100f.chunk.js",
+    "main.js.map": "/amy-portfolio/static/js/main.1875100f.chunk.js.map",
+    "runtime-main.js": "/amy-portfolio/static/js/runtime-main.a0c6d1c1.js",
+    "runtime-main.js.map": "/amy-portfolio/static/js/runtime-main.a0c6d1c1.js.map",
+    "static/css/2.0624914a.chunk.css": "/amy-portfolio/static/css/2.0624914a.chunk.css",
+    "static/js/2.0d8755ad.chunk.js": "/amy-portfolio/static/js/2.0d8755ad.chunk.js",
+    "static/js/2.0d8755ad.chunk.js.map": "/amy-portfolio/static/js/2.0d8755ad.chunk.js.map",
+    "index.html": "/amy-portfolio/index.html",
+    "precache-manifest.95ec8a65878a15901e8a11e90206d817.js": "/amy-portfolio/precache-manifest.95ec8a65878a15901e8a11e90206d817.js",
+    "service-worker.js": "/amy-portfolio/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/amy-portfolio/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.fcb82ad3.chunk.css.map": "/amy-portfolio/static/css/main.fcb82ad3.chunk.css.map",
+    "static/media/AHLogo.png": "/amy-portfolio/static/media/AHLogo.4e7590aa.png",
+    "static/media/BIXE3594.JPG": "/amy-portfolio/static/media/BIXE3594.523aa34a.JPG",
+    "static/media/CZAR3822.JPG": "/amy-portfolio/static/media/CZAR3822.72462b0b.JPG",
+    "static/media/DZVN7799.JPG": "/amy-portfolio/static/media/DZVN7799.73974b33.JPG",
+    "static/media/GJSJ2509.JPG": "/amy-portfolio/static/media/GJSJ2509.9b8e2bea.JPG",
+    "static/media/GRBN3721.JPG": "/amy-portfolio/static/media/GRBN3721.027600da.JPG",
+    "static/media/KGEU5313.JPG": "/amy-portfolio/static/media/KGEU5313.da3a5c2a.JPG",
+    "static/media/LARB7509.JPG": "/amy-portfolio/static/media/LARB7509.f40fdaee.JPG",
+    "static/media/LMJO5721.JPG": "/amy-portfolio/static/media/LMJO5721.4d3b4f5a.JPG",
+    "static/media/LUPD7891.JPG": "/amy-portfolio/static/media/LUPD7891.04b1f849.JPG",
+    "static/media/MUAD0763.JPG": "/amy-portfolio/static/media/MUAD0763.2e55f56a.JPG",
+    "static/media/civiccentre.png": "/amy-portfolio/static/media/civiccentre.9bd18a8f.png",
+    "static/media/d7tree.PNG": "/amy-portfolio/static/media/d7tree.2609b562.PNG",
+    "static/media/logo.svg": "/amy-portfolio/static/media/logo.25bf045c.svg",
+    "static/media/paint.PNG": "/amy-portfolio/static/media/paint.e77ee1c1.PNG",
+    "static/media/planet_destination.png": "/amy-portfolio/static/media/planet_destination.cbcf46c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c6d1c1.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.0d8755ad.chunk.js",
+    "static/css/main.fcb82ad3.chunk.css",
+    "static/js/main.1875100f.chunk.js"
+  ]
+}
