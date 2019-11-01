@@ -13,9 +13,9 @@ function Projects() {
                 <h1 style={{ fontSize: "3em", fontWeight: "bold" }}>PROJECTS</h1>
                 <div className="row">
 
-                    <div className="imageWrap col-sm  "><a href="https://www.scss.tcd.ie/~hacketam/cosmiccomputing/landingpage.html"><img src={require('.././assets/planet_destination.png')} className="img-fluid" /></a>
+                    <div className="imageWrap col-sm  "><a href="https://amyraehackett.github.io/Cosmic-Computing/"><img src={require('.././assets/planet_destination.png')} className="img-fluid" /></a>
                         <p class="imageDescription"><b>Cosmic Computing</b><br />
-                            <a href="https://www.scss.tcd.ie/~hacketam/cosmiccomputing/landingpage.html" style={{ color: "white" }}>View</a></p>
+                            <a href="https://amyraehackett.github.io/Cosmic-Computing/" style={{ color: "white" }}>View</a></p>
 
 
 
