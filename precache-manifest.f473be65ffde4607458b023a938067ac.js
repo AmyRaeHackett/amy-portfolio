@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8321d5d8bef61676a90cd521df63bde",
+    "revision": "1c5f64f54de8080dc91fdf6aa0aa5b93",
     "url": "/amy-portfolio/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amy-portfolio/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "9f49857aed05c2c828e0",
-    "url": "/amy-portfolio/static/css/main.2aae1ea7.chunk.css"
+    "revision": "50cc177db5e48570af9c",
+    "url": "/amy-portfolio/static/css/main.1b666915.chunk.css"
   },
   {
     "revision": "abfee5b9bd967f5677fa",
     "url": "/amy-portfolio/static/js/2.e30d2bb8.chunk.js"
   },
   {
-    "revision": "9f49857aed05c2c828e0",
-    "url": "/amy-portfolio/static/js/main.58e39684.chunk.js"
+    "revision": "50cc177db5e48570af9c",
+    "url": "/amy-portfolio/static/js/main.d8654096.chunk.js"
   },
   {
     "revision": "89288de3cfa1f7223246",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amy-portfolio/static/media/MUAD0763.2e55f56a.JPG"
   },
   {
-    "revision": "9bd18a8f13bfae919b9b59a7e51131cb",
-    "url": "/amy-portfolio/static/media/civiccentre.9bd18a8f.png"
+    "revision": "a04c54c16aeb308e6c2cef74fb777e3e",
+    "url": "/amy-portfolio/static/media/ballymunwebsite.a04c54c1.PNG"
   },
   {
     "revision": "2609b562c6d2b23b35e725e193a2d460",
