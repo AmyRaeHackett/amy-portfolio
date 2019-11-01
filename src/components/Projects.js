@@ -27,7 +27,7 @@ function Projects() {
 
                     <div className="imageWrap col-sm "> <a href="https://d7educatetogether.com/"><img src={require('.././assets/d7tree.PNG')} className="img-fluid" /></a>
                         <p class="imageDescription"><b>D7 Educate Together</b><br />
-                            <a href="https://d7educatetogether.com/" style={{ color: "black" }}>View website</a></p>
+                            <a href="https://d7educatetogether.com/" style={{ color: "white" }}>View website</a></p>
 
                     </div>
 
@@ -42,14 +42,14 @@ function Projects() {
 
                     <div className="imageWrap col-sm "><a href="https://codepen.io/amyhackett/pen/wvvgVXV"><img src={require('.././assets/snakeRight.png')} className="img-fluid" /></a>
                         <p class="imageDescription"><b>Snake</b><br />
-                            <a href="https://codepen.io/amyhackett/pen/wvvgVXV" style={{ color: "black" }}>View on CodePen</a></p>
+                            <a href="https://codepen.io/amyhackett/pen/wvvgVXV" style={{ color: "white" }}>View on CodePen</a></p>
 
 
                     </div>
 
                     <div className="imageWrap col-sm "> <a href="https://codepen.io/amyhackett/pen/gOYewOW"><img src={require('.././assets/owly.png')} className="img-fluid" /></a>
                         <p class="imageDescription"><b>Sokoban</b><br />
-                            <a href="https://codepen.io/amyhackett/pen/gOYewOW" style={{ color: "black" }}>View on CodePen</a></p>
+                            <a href="https://codepen.io/amyhackett/pen/gOYewOW" style={{ color: "white" }}>View on CodePen</a></p>
                     </div>
                 </div>
             </div >
