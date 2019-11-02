@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b57427450c47da948119cf79e3139fa",
+    "revision": "f8ba7bf38bc9d096aab578c31e0d0807",
     "url": "/amy-portfolio/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amy-portfolio/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "2323fc7eaabee94cbb57",
-    "url": "/amy-portfolio/static/css/main.548f3d00.chunk.css"
+    "revision": "9c367458322d7966dbef",
+    "url": "/amy-portfolio/static/css/main.1fb5be2f.chunk.css"
   },
   {
     "revision": "76c5416b733f1e67ae9e",
     "url": "/amy-portfolio/static/js/2.5a657806.chunk.js"
   },
   {
-    "revision": "2323fc7eaabee94cbb57",
-    "url": "/amy-portfolio/static/js/main.b720c786.chunk.js"
+    "revision": "9c367458322d7966dbef",
+    "url": "/amy-portfolio/static/js/main.5aa988e2.chunk.js"
   },
   {
     "revision": "89288de3cfa1f7223246",
@@ -68,10 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amy-portfolio/static/media/MUAD0763.2e55f56a.JPG"
   },
   {
-    "revision": "a04c54c16aeb308e6c2cef74fb777e3e",
-    "url": "/amy-portfolio/static/media/ballymunwebsite.a04c54c1.PNG"
-  },
-  {
     "revision": "2609b562c6d2b23b35e725e193a2d460",
     "url": "/amy-portfolio/static/media/d7tree.2609b562.PNG"
   },
@@ -92,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amy-portfolio/static/media/logo.25bf045c.svg"
   },
   {
-    "revision": "e77ee1c16039547ad38c8ab5cf4dc972",
-    "url": "/amy-portfolio/static/media/paint.e77ee1c1.PNG"
+    "revision": "fd070e4437c89a2bbd9a810e4add1a6f",
+    "url": "/amy-portfolio/static/media/painticon.fd070e44.PNG"
   },
   {
     "revision": "cbcf46c77999afcbea7e268e43c8229a",
