@@ -11,7 +11,7 @@ function Skills() {
                 <div className="container p-5">
                     <div className="row">
                         <div className="col-sm-6">
-                            <h1 id="skilltitle" style={{ fontWeight: "bold", color: "white" }}>SKILLS</h1>
+                            <h1 style={{ fontWeight: "bold", color: "white" }}><ul><li id="skilltitle">SKILLS</li></ul></h1>
                         </div>
                         <div className="col-sm">
                             <ul>

@@ -45,7 +45,7 @@ function Education() {
                     <p><b>Relevant coursework:</b> <br />
                         Human Development: a combination of psychology, philosophy and sociology <br />
                         Geography: GIS, analysing databases with Excel, gathering data <br />
-                        Dissertation: Living in the moment: Irish third-level students' and mindfulness teachers' experiences of and perceptions of mindfulness   <br /><br />
+                        Dissertation: Living in the moment: Irish third-level students' and mindfulness teachers' experiences of and perceptions of mindfulness   <br />
                     </p>
                 </div>
             </div>

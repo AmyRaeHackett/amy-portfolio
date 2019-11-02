@@ -14,7 +14,7 @@ function Projects() {
                 <div className="row">
 
                     <div className="imageWrap col-sm  "><img src={require('.././assets/planet_destination.png')} className="img-fluid" />
-                        <p class="imageDescription"><b>Cosmic Computing</b><br />
+                        <p className="imageDescription"><b>Cosmic Computing</b><br />
                             <a href="https://amyraehackett.github.io/Cosmic-Computing/" >View game</a><br />
                             <a href="https://github.com/AmyRaeHackett/Cosmic-Computing" >View source code</a></p>
 
@@ -22,14 +22,14 @@ function Projects() {
 
                     </div>
                     <div className="imageWrap col-sm "><img src={require('.././assets/illustrate.png')} className="img-fluid" />
-                        <p class="imageDescription"><b>illustrate</b><br />
+                        <p className="imageDescription"><b>illustrate</b><br />
                             <a href="https://github.com/AmyRaeHackett/Image-Sharing-App" >View source code</a></p>
 
 
                     </div>
                    
                     <div className="imageWrap col-sm "><img src={require('.././assets/d7tree.PNG')} className="img-fluid" />
-                        <p class="imageDescription"><b>D7 Educate Together</b><br />
+                        <p className="imageDescription"><b>D7 Educate Together</b><br />
                             <a href="https://d7educatetogether.com/" >View website</a></p>
 
                     </div>
@@ -38,13 +38,13 @@ function Projects() {
                 <div className="row">
 
                     <div className="imageWrap col-sm  "><img src={require('.././assets/ballymunfplogo.png')} className="img-fluid" />
-                        <p class="imageDescription"><b >Ballymun Family Practice</b><br />
+                        <p className="imageDescription"><b >Ballymun Family Practice</b><br />
                             <a href="https://github.com/AmyRaeHackett/Ballymun-Family-Practice" >View source code</a></p>
 
                     </div>
 
                     <div className="imageWrap col-sm "><img src={require('.././assets/painticon.PNG')} className="img-fluid" />
-                        <p class="imageDescription"><b >Paint Program</b><br />
+                        <p className="imageDescription"><b >Paint Program</b><br />
                             <a href="https://github.com/AmyRaeHackett/Paint-Program" >View source code</a></p></div>
 
 
