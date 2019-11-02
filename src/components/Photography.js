@@ -9,7 +9,7 @@ function Photography() {
         <div id="photography" style={{ paddingTop: "5em" }}>
             <div className="photo" >
                 <div className="container">
-                    <p className="p-2" style={{ fontSize: "3em", fontWeight: "bold" }} >PHOTOGRAPHY</p>
+                    <p className="p-2" id = "photographytitle" style={{  fontWeight: "bold", color: "rgb(91, 136, 151)" }} >PHOTOGRAPHY</p>
                     <div className="row">
                         <div className="col-sm">
                             <img src={require('.././assets/photography/BIXE3594.JPG')} className="img-fluid col-sm"></img>

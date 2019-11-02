@@ -1,3 +1,16 @@
 .img-fluid {
     padding: 2em;
 }
+
+
+@media only screen and (max-width: 600px) {
+#photographytitle {
+    font-size: 2.5em;
+}
+}
+
+@media only screen and (min-width: 600px) {
+    #photographytitle {
+        font-size: 3em;
+    }
+    }

@@ -37,13 +37,13 @@ function Projects() {
                 </div>
                 <div className="row">
 
-                    <div className="imageWrap col-sm  "><img src={require('.././assets/ballymunwebsite.PNG')} className="img-fluid" />
-                        <p class="imageDescription"><b style={{color:"white"}}>Ballymun Family Practice</b><br />
-                            <a href="https://github.com/AmyRaeHackett/Ballymun-Family-Practice" style={{color:"white"}}>View source code</a></p>
+                    <div className="imageWrap col-sm  "><img src={require('.././assets/ballymunfplogo.png')} className="img-fluid" />
+                        <p class="imageDescription"><b >Ballymun Family Practice</b><br />
+                            <a href="https://github.com/AmyRaeHackett/Ballymun-Family-Practice" >View source code</a></p>
 
                     </div>
 
-                    <div className="imageWrap col-sm "><img src={require('.././assets/paint.PNG')} className="img-fluid" />
+                    <div className="imageWrap col-sm "><img src={require('.././assets/painticon.PNG')} className="img-fluid" />
                         <p class="imageDescription"><b >Paint Program</b><br />
                             <a href="https://github.com/AmyRaeHackett/Paint-Program" >View source code</a></p></div>
 
