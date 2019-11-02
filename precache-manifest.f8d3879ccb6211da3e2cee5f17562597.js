@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e28489b7cb98157dc1f30da0bcdfa4ca",
+    "revision": "fd351f5e1e8ffd62fcae0d0e1d0d7008",
     "url": "/amy-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amy-portfolio/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "f1c62acd37ec14624666",
+    "revision": "73c6a2f2e59e61ff44fc",
     "url": "/amy-portfolio/static/css/main.e139db54.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amy-portfolio/static/js/2.cdcf437e.chunk.js"
   },
   {
-    "revision": "f1c62acd37ec14624666",
-    "url": "/amy-portfolio/static/js/main.0a63541f.chunk.js"
+    "revision": "73c6a2f2e59e61ff44fc",
+    "url": "/amy-portfolio/static/js/main.b4dfc6b4.chunk.js"
   },
   {
     "revision": "89288de3cfa1f7223246",
