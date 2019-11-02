@@ -1,0 +1,16 @@
+li {
+    list-style: none;
+    text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+    #skilltitle {
+        text-align: left;
+}
+}
+
+@media only screen and (min-width: 600px) {
+    #skilltitle {
+        text-align: right;
+}
+}
