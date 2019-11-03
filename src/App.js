@@ -9,6 +9,7 @@ import Photography from './components/Photography';
 import Contact from './components/Contact';
 import Skills from './components/Skills';
 import Education from './components/Education';
+import projectsDetails from './components/ProjectsDetails';
 //import 'bootstrap/dist/css/bootstrap.min.css';
 
 
