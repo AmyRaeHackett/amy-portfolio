@@ -32,9 +32,11 @@
   }
   
   .header li a:hover,
-  .header .menu-btn:hover {
+  .header .menu-btn:hover
+   {
      color: rgb(80, 8, 8);
   }
+
   
   
   
@@ -130,3 +132,17 @@
       display: none;
     }
   }
+  
+ .nav-item > .active {
+  padding-bottom: 0;
+  border-bottom: 1px solid rgb(80, 8, 8);
+}
+
+.menu li a, #logo {
+  cursor:pointer;
+}
+
+.nav-item:hover {
+  color: rgb(80, 8, 8);
+}
+

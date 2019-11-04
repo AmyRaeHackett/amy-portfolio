@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "react-router-dom";
 import './Projects.css';
 import ProjectsDetails from './ProjectsDetails';
-
+//import { Spring } from 'react-spring';
 
 function Projects(props) {
     return (
@@ -69,6 +69,7 @@ function Projects(props) {
                 </div>
             </div >
         </div>
+       
 
     )
 }

@@ -46,15 +46,10 @@ function ProjectsDetails(props) {
             <img src={props.imgUrl} className="img-fluid" />
             <p className="imageDescription">
                 <b>{props.name}</b><br />
-                
                 <a href={props.codeLink} >{props.textCode}</a><br />
                 <a href={props.gameLink} > {props.textGame}</a></p>
-
-
-
         </div>
     )
-
 }
 
 export default ProjectsDetails
