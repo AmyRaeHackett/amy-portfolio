@@ -1,7 +1,8 @@
 import React from "react"
 import './Home.css';
 //import 'bootstrap/dist/css/bootstrap.min.css';
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
+import { Link, animateScroll as scroll } from 'react-scroll';
 import { Spring } from 'react-spring/renderprops';
 
 function Home() {
@@ -18,7 +19,17 @@ function Home() {
                     <h1 id="title">Hi, <br /> I'm Amy!</h1>
 
                 </header>
-                <a href="#about"><img height="100px" width="100px" src={require('.././assets/downbutton.gif')}></img></a>
+                <Link
+                               
+                                activeClass="active"
+                                to="about"
+                                spy={true}
+                                smooth={true}
+                                offset={-100}
+                                duration={500}
+                            >
+                <img id = "gif" height="100px" width="100px" src={require('.././assets/downbutton.gif')}></img>
+                </Link>
             </div>
             </div>
         </div>

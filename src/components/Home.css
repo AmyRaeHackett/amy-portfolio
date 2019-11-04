@@ -66,3 +66,7 @@
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
+#gif {
+    cursor: pointer;
+}
