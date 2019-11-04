@@ -146,3 +146,10 @@
   color: rgb(80, 8, 8);
 }
 
+  
+@media (max-width: 48em) {
+#logo {
+  float: left;
+}
+
+}
