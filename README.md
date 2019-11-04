@@ -1,3 +1,1 @@
----
-permalink: /index.html
----
+https://amyraehackett.github.io/amy-portfolio/
